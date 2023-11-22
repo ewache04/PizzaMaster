@@ -1,0 +1,25 @@
+# PizzaMaster - Pizza Ordering System
+School: Roberts Wesleyan College
+Course: Introduction to programming
+Author: Jeremiah E. Ochepo
+Last Updated: 8/26/19
+
+## Description
+
+**PizzaMaster** is a Python program that simulates a pizza ordering system. Users can choose from a menu of delicious pizzas, place orders, and receive invoices with estimated wait times. The program includes a class-based structure and demonstrates the use of loops, user input, and randomization.
+
+## Features
+
+- Display a menu of pizza options with prices.
+- Allow users to place orders and check the availability of items.
+- Generate invoices with estimated wait times.
+- Simulate the availability of items by randomly marking one pizza out of stock.
+- Case-insensitive input for user convenience.
+
+## Getting Started
+
+1. Clone the repository or download the Python file.
+
+```bash
+git clone https://github.com/your-username/PizzaMaster.git
+cd PizzaMaster
